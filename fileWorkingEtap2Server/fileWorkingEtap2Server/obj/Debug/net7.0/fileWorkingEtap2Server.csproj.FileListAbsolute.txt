@@ -1,0 +1,15 @@
+D:\matrenina\lab3\fileWorkingEtap2Server\fileWorkingEtap2Server\bin\Debug\net7.0\fileWorkingEtap2Server.exe
+D:\matrenina\lab3\fileWorkingEtap2Server\fileWorkingEtap2Server\bin\Debug\net7.0\fileWorkingEtap2Server.deps.json
+D:\matrenina\lab3\fileWorkingEtap2Server\fileWorkingEtap2Server\bin\Debug\net7.0\fileWorkingEtap2Server.runtimeconfig.json
+D:\matrenina\lab3\fileWorkingEtap2Server\fileWorkingEtap2Server\bin\Debug\net7.0\fileWorkingEtap2Server.dll
+D:\matrenina\lab3\fileWorkingEtap2Server\fileWorkingEtap2Server\bin\Debug\net7.0\fileWorkingEtap2Server.pdb
+D:\matrenina\lab3\fileWorkingEtap2Server\fileWorkingEtap2Server\obj\Debug\net7.0\fileWorkingEtap2Server.csproj.AssemblyReference.cache
+D:\matrenina\lab3\fileWorkingEtap2Server\fileWorkingEtap2Server\obj\Debug\net7.0\fileWorkingEtap2Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\matrenina\lab3\fileWorkingEtap2Server\fileWorkingEtap2Server\obj\Debug\net7.0\fileWorkingEtap2Server.AssemblyInfoInputs.cache
+D:\matrenina\lab3\fileWorkingEtap2Server\fileWorkingEtap2Server\obj\Debug\net7.0\fileWorkingEtap2Server.AssemblyInfo.cs
+D:\matrenina\lab3\fileWorkingEtap2Server\fileWorkingEtap2Server\obj\Debug\net7.0\fileWorkingEtap2Server.csproj.CoreCompileInputs.cache
+D:\matrenina\lab3\fileWorkingEtap2Server\fileWorkingEtap2Server\obj\Debug\net7.0\fileWorkingEtap2Server.dll
+D:\matrenina\lab3\fileWorkingEtap2Server\fileWorkingEtap2Server\obj\Debug\net7.0\refint\fileWorkingEtap2Server.dll
+D:\matrenina\lab3\fileWorkingEtap2Server\fileWorkingEtap2Server\obj\Debug\net7.0\fileWorkingEtap2Server.pdb
+D:\matrenina\lab3\fileWorkingEtap2Server\fileWorkingEtap2Server\obj\Debug\net7.0\fileWorkingEtap2Server.genruntimeconfig.cache
+D:\matrenina\lab3\fileWorkingEtap2Server\fileWorkingEtap2Server\obj\Debug\net7.0\ref\fileWorkingEtap2Server.dll
